@@ -29,6 +29,10 @@ header {
     display: flex
 }
 
+.head-container {
+    display:flex;
+}
+
 .team-nav-container {
     padding: 32px 0;
     width: calc(( 100% - 72px) / 4);
@@ -206,9 +210,10 @@ h2 {
     gap: 24px
 }
 
-.second-list:first-child {
-    flex-basis: calc((100% - 72px) / 4)
+.second-list-container {
+    width: calc((100% - 72px) / 4)
 }
+
 
 .second-nav {
     display: flex;
