@@ -194,7 +194,7 @@ button:focus {
 }
 
 .second-list-container {
-    width: calc((100% - 72px) / 4);
+    width: calc((100%-72px)/4);
 }
 
 .second-nav {
