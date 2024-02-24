@@ -20,11 +20,14 @@ img {
     display: flex;
 }
 
+header {
+    border-bottom: 1px solid #e7e9fc
+}
+
 .header-container {
     width: 1440px;
     height: 72px;
     display: flex
-    border-bottom: 1px solid #e7e9fc;
 }
 
 .team-nav-container {
