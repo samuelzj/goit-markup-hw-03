@@ -108,7 +108,7 @@ header {
     color: #404BBF;
 }
 
-address {
+.contact {
     color: #434455;
     font-weight: 400;
     font-size: 16px;
@@ -123,7 +123,6 @@ address {
 }
 
 .link-address {
-    text-align: left;
     color: #434455;
 }
 
