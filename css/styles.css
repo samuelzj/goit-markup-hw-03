@@ -29,10 +29,6 @@ header {
     display: flex
 }
 
-.head-container {
-    display:flex;
-}
-
 .team-nav-container {
     padding: 32px 0;
     width: calc(( 100% - 72px) / 4);
