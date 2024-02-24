@@ -17,7 +17,6 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    outline: 2px solid red;
 }
 
 .header-container {
@@ -153,7 +152,6 @@ border-radius: 0px 0px 4px 4px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    outline: 2px solid red;
     list-style: none;
     flex-wrap: wrap;
     column-gap: 24px;
@@ -346,7 +344,6 @@ h3 {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    outline: 2px solid red;
 }
 
 .footer-logo {
