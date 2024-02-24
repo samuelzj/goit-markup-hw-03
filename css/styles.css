@@ -194,7 +194,7 @@ button:focus {
 }
 
 .second-list-container {
-    width: calc((100%-72px)\4);
+    width: calc((100% - 72px) /4);
 }
 
 .second-nav {
@@ -235,11 +235,7 @@ button:focus {
 .team-list {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
-    width: calc((100% - 3 * 24px) / 4);
-}
-
-.team-list:first-child {
-    width: calc((100% - 3 * 24px) / 4);
+    width: calc((100% - 72px) /4);
 }
 
 .team-nav-container {
@@ -289,7 +285,7 @@ button:focus {
 }
 
 .fourth-round-list {
-    width: calc((100%-48px)\3);
+    width: calc((100% - 48px) /3);
 }
 
 .app-container {
@@ -308,6 +304,7 @@ button:focus {
 
 .portfolio-text {
     margin-bottom: 8px;
+    margin-top: 8px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
