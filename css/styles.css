@@ -25,6 +25,14 @@ img {
     display: flex
 }
 
+.head-container {
+    display: flex;
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
+    border-bottom: 1px solid #e7e9fc;
+}
+
 .team-nav-container {
     padding: 32px 0;
     width: calc((100% - 72px) /4);
@@ -233,6 +241,7 @@ button {
     height: 56px;
     border: none;
     border-radius: 4px;
+    cursor: pointer;
 }
 
 button:hover,
@@ -282,6 +291,10 @@ h3 {
 .team-nav p {
     font-size: 16px;
     line-height: 1.5;
+    text-align: center;
+}
+
+.team-description {
     text-align: center;
 }
 
@@ -335,15 +348,6 @@ h3 {
     align-items: flex-start;
     justify-content: center;
     padding: 100px 0;
-}
-
-.foot-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
 }
 
 .footer-logo {
