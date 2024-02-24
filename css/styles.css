@@ -17,7 +17,6 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    display: flex
 }
 
 header {
@@ -159,10 +158,9 @@ border-radius: 0px 0px 4px 4px;
     align-items: center;
     list-style: none;
     flex-wrap: wrap;
-    column-gap: 48px;
-    row-gap: 24px;
+    column-gap: 24px;
+    row-gap: 48px;
     justify-content: flex-start;
-
 }
 
 footer {
