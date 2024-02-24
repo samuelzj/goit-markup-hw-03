@@ -17,7 +17,6 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    display: flex;
 }
 
 header {
@@ -164,6 +163,7 @@ border-radius: 0px 0px 4px 4px;
 }
 
 footer {
+    display: flex
     background-color: #2e2f42;
 }
 
@@ -207,7 +207,7 @@ h2 {
 }
 
 .second-list:first-child {
-    width: calc((100%-72px) /4)
+    flex-basis: calc((100% - 72px) / 4)
 }
 
 .second-nav {
