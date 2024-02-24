@@ -208,7 +208,7 @@ h2 {
     gap: 24px
 }
 
-.second-list-container {
+.second-nav-container {
     width: calc((100% - 72px) / 4)
 }
 
