@@ -147,6 +147,8 @@ border-radius: 0px 0px 4px 4px;
 }
 
 .main-four {
+    height: 1000;
+    width: 1128;
     padding-top: 120px;
     padding-bottom: 120px;
     display: flex
