@@ -17,6 +17,7 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
 }
 
 .header-container {
@@ -28,7 +29,7 @@ img {
 
 .team-nav-container {
     padding: 32px 0;
-    width: calc((100% - 72px) /4);
+    width: calc(( 100% - 72px) / 4);
 }
 
 .nav-site {
