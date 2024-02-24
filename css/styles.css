@@ -302,7 +302,7 @@ button:focus {
     font-weight: 500;
 }
 
-.portfolio-text {
+.portfolio-text p{
     margin-bottom: 8px;
     margin-top: 8px;
 }
