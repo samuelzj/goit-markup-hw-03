@@ -46,11 +46,7 @@ header {
 }
 
 .header-container {
-    width: 1440px;
-    height: 72px;
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 24px 0;
 }
 
 .head-div {
@@ -92,7 +88,6 @@ header {
 .link {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    margin: 12px 10px;
     text-align: center;
     text-decoration: none;
     padding: 24px 0;
@@ -112,9 +107,6 @@ header {
     letter-spacing: 0.02em;
     font-style: normal;
     text-decoration-style: none;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    margin-right: 156px;
 }
 
 .list-address {
@@ -134,7 +126,6 @@ header {
 .main-one {
     background-color: #2e2f42;
     padding: 188px 0;
-    display: flex;
 }
 
 .first-round {
@@ -147,6 +138,7 @@ header {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    margin-bottom: 48px;
 }
 
 button {
@@ -197,14 +189,12 @@ button:focus {
 }
 
 .second-nav {
-    display: flex;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-weight: 500;
     margin-bottom: 8px;
-    text-align: center;
 }
 
 .second-text {
@@ -225,8 +215,6 @@ button:focus {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
-    display: flex;
-    justify-content: center;
     margin-bottom: 72px;
 }
 
@@ -277,8 +265,6 @@ button:focus {
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
-    display: flex;
-    justify-content: center;
     margin-bottom: 72px;
 }
 
@@ -300,19 +286,15 @@ button:focus {
 }
 
 .portfolio-nav {
-    display: flex;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
     font-weight: 500;
     margin-bottom: 8px;
-    text-align: center;
 }
 
 .portfolio-text {
-    margin-bottom: 8px;
-    margin-top: 8px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
